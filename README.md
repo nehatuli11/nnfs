@@ -4,3 +4,5 @@ Just recreating the codes done by [Sentdex in Neural Networks from Scratch](http
 
 all codes are done in python
 ***
+
+![](dl.jpeg)
